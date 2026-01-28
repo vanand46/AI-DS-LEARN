@@ -1,0 +1,21 @@
+{
+  "rows": 20640,
+  "columns": 13,
+  "missing_total_bedrooms": 0,
+  "train_size": 14447,
+  "val_size": 3096,
+  "test_size": 3097,
+  "model": "Statsmodels OLS",
+  "model_quality_status": "Good",
+  "metrics": {
+    "train_rmse": 68393.3593436973,
+    "val_rmse": 67668.17398620748,
+    "test_rmse": 71483.88300249705,
+    "train_mae": 49778.903266655565,
+    "val_mae": 49482.23306798515,
+    "test_mae": 50843.52059139623,
+    "train_r2": 0.6480757459736415,
+    "val_r2": 0.6502260378269678,
+    "test_r2": 0.6254234270484975
+  }
+}
